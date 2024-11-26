@@ -4,7 +4,7 @@ In this project, I am learning HTML (HyperText Markup Language). The repository 
 
 ## About this Project
 
-- First file: **HTML Introduction** - This file contains a basic understanding of HTML and its components.
+- **First file**: **HTML Introduction** - This file contains a basic understanding of HTML and its components.
 - In the upcoming content, practical examples, code snippets, and exercises will be provided to help understand HTML better.
 
 ## Upcoming Content
@@ -13,3 +13,8 @@ In this project, I am learning HTML (HyperText Markup Language). The repository 
 - How to use HTML Forms
 - Integrating HTML with CSS
 - Interactive HTML Components
+
+https://github.com/ajaykumaryadavcodes
+
+
+
